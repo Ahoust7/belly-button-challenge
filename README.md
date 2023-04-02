@@ -14,3 +14,5 @@ https://devdocs.io/d3~3/selections.md#d3_select
 https://javascript.info/keys-values-entries
 
 https://devdocs.io/d3~5/d3-request#json
+
+https://plotly.com/javascript/basic-charts/
